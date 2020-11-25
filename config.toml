@@ -1,4 +1,4 @@
-baseURL = "guillempm.github.io"
+baseURL = "//guillempm.github.io"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
